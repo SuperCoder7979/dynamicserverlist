@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "supercoder79.dynamicserverlist.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "dynamicserverlist.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "MixinServerList"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
